@@ -1,0 +1,89 @@
+{
+    "signatures": [
+        {
+            "magic": "89504E47",
+            "extension": ".png",
+            "description": "PNG Image"
+        },
+        {
+            "magic": "FFD8FF",
+            "extension": ".jpg",
+            "description": "JPEG Image"
+        },
+        {
+            "magic": "4F676753",
+            "extension": ".ogg",
+            "description": "Ogg Vorbis Audio"
+        },
+        {
+            "magic": "52494646",
+            "extension": ".wav",
+            "description": "WAV Audio"
+        },
+        {
+            "magic": "494433",
+            "extension": ".mp3",
+            "description": "MP3 Audio"
+        },
+        {
+            "magic": "664C6143",
+            "extension": ".flac",
+            "description": "FLAC Audio"
+        },
+        {
+            "magic": "1A45DFA3",
+            "extension": ".mkv",
+            "description": "Matroska Video"
+        },
+        {
+            "magic": "0000002066747970",
+            "extension": ".mp4",
+            "description": "MP4 Video"
+        },
+        {
+            "magic": "25504446",
+            "extension": ".pdf",
+            "description": "PDF Document"
+        },
+        {
+            "magic": "7B5C727466",
+            "extension": ".rtf",
+            "description": "Rich Text Format"
+        },
+        {
+            "magic": "504B0304",
+            "extension": ".zip",
+            "description": "ZIP Archive"
+        },
+        {
+            "magic": "7F454C46",
+            "extension": ".elf",
+            "description": "ELF Executable"
+        },
+        {
+            "magic": "4D5A",
+            "extension": ".exe",
+            "description": "Windows Executable"
+        },
+        {
+            "magic": "2321",
+            "extension": ".sh",
+            "description": "Shell Script"
+        },
+        {
+            "magic": "47494638",
+            "extension": ".gif",
+            "description": "GIF Image"
+        },
+        {
+            "magic": "52617221",
+            "extension": ".rar",
+            "description": "RAR Archive"
+        },
+        {
+            "magic": "1F8B08",
+            "extension": ".gz",
+            "description": "GZIP Archive"
+        }
+    ]
+}
